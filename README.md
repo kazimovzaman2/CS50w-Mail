@@ -28,6 +28,7 @@ python manage.py runserver
 ```
 
 ## Demo
+[Click](http://mail-cs50w.glitch.me)
 ![image](https://user-images.githubusercontent.com/92586852/215561992-6e4f5234-bfaa-4d77-818a-5308766c0738.png)
 
 
